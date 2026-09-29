@@ -81,6 +81,6 @@ Provides time-based analysis of sales and business performance.
 
 https://github.com/Sanu145/Blinkit-Dashboard/blob/main/calendar_analysispage.png
 
-8. Project Objective
+##8. Project Objective
 
 The main objective of this project is to transform Blinkit sales data into an interactive business intelligence dashboard that makes it easier to understand sales performance, product contribution, outlet characteristics, and business trends.
