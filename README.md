@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Analysis Dashboard
+#  Blinkit Sales Analysis Dashboard
 
 # 1. Project Title
 
@@ -16,22 +16,22 @@ The dashboard is designed to make it easy to identify **sales trends, product pe
 
 The dashboard was developed using the following tools and technologies:
 
-* 📊 **Power BI Desktop** – Dashboard creation and data visualization.
-* 🔄 **Power Query** – Data cleaning, transformation, and preparation.
-* 🧮 **DAX** – Creation of calculated measures and KPI calculations.
-* 📈 **Power BI Visuals** – Charts, cards, tables, slicers, and interactive elements.
+*  **Power BI Desktop** – Dashboard creation and data visualization.
+*  **Power Query** – Data cleaning, transformation, and preparation.
+*  **DAX** – Creation of calculated measures and KPI calculations.
+*  **Power BI Visuals** – Charts, cards, tables, slicers, and interactive elements.
 
 ## 4. Key KPIs
 
 The dashboard tracks the following key performance indicators:
 
-* 💰 **Total Sales** – Overall sales generated.
-* 📊 **Average Sales** – Average sales value.
-* 📦 **Number of Items** – Total number of items.
-* ⭐ **Average Rating** – Average customer/product rating.
-* 🏪 **Outlet Performance** – Sales analysis by outlet type, size, and location.
-* 🥫 **Item Performance** – Sales analysis by item type and fat content.
-* 📅 **Sales Trends** – Sales analysis based on outlet establishment year.
+*  **Total Sales** – Overall sales generated.
+*  **Average Sales** – Average sales value.
+*  **Number of Items** – Total number of items.
+*  **Average Rating** – Average customer/product rating.
+*  **Outlet Performance** – Sales analysis by outlet type, size, and location.
+*  **Item Performance** – Sales analysis by item type and fat content.
+*  **Sales Trends** – Sales analysis based on outlet establishment year.
 
 ## 5. Key Questions / Business Insights
 
@@ -50,32 +50,32 @@ The dashboard is designed to answer questions such as:
 
 ## 6. Dashboard Features
 
-* 🎛️ Interactive filters for **Item Type, Outlet Type, Outlet Size, Outlet Location, and Fat Content**
-* 📊 KPI cards for quick performance overview
-* 📈 Sales trend analysis
-* 🍩 Outlet size and fat-content analysis
-* 📦 Item-type sales analysis
-* 🏪 Outlet-type performance table
-* 📅 Calendar/Year-based analysis
-* 🔄 Reset button for clearing filters
-* ℹ️ Information page explaining the dashboard
-* 🧭 Interactive navigation between dashboard pages
+*  Interactive filters for **Item Type, Outlet Type, Outlet Size, Outlet Location, and Fat Content**
+*  KPI cards for quick performance overview
+*  Sales trend analysis
+*  Outlet size and fat-content analysis
+*  Item-type sales analysis
+*  Outlet-type performance table
+*  Calendar/Year-based analysis
+*  Reset button for clearing filters
+*  Information page explaining the dashboard
+*  Interactive navigation between dashboard pages
 
 ## 7. Dashboard Pages
 
-### 🏠 Home
+###  Home
 
 Provides an overall view of Blinkit's sales and outlet performance.
 
 https://github.com/Sanu145/Blinkit-Dashboard/blob/main/homepage.png
 
-### ℹ️ Information
+###  Information
 
 Explains the dashboard purpose, KPIs, available filters, and navigation.
 
 https://github.com/Sanu145/Blinkit-Dashboard/blob/main/information_page.png
 
-### 📅 Calendar Analysis
+###  Calendar Analysis
 
 Provides time-based analysis of sales and business performance.
 
